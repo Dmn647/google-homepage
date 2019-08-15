@@ -1,3 +1,1 @@
-Assignment: Use HTML and CSS to build the Google.com homepage
-From The Odin Project's Full Stack JavaScript:
-(http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+Assignment: Use HTML and CSS to build the Google.com homepage from The Odin Project's Full Stack JavaScript (http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
