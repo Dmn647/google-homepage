@@ -14,19 +14,23 @@ ul {
 
 li {
   float: left;
+  padding: 10px;
 }
 
 li a {
   display: block;
-  padding: 10px;
   text-decoration: none;
   color: black;
 }
 
-.search-bar {
-  width: 700px;
-  margin: 0 auto;
+input {
+  color: #696969;
+  background-color: whitesmoke;
   border-radius: 5px;
+  border: 1px solid whitesmoke;
+  font-size: 15px;
+  padding: 10px 12px;
+  margin: 0 3px 10px 3px;
 }
 
 .center {
@@ -39,4 +43,13 @@ li a {
 
 .right {
   float: right;
+}
+
+#search {
+  width: 600px;
+  border-radius: 40px;
+  border: 1px solid lightgray;
+  height: 45px;
+  background-color: white;
+  padding: 0 0;
 }
