@@ -41,8 +41,14 @@ input {
   padding: 186px 0 0 0;
 }
 
-.right {
-  float: right;
+.head {
+  top: 0;
+}
+
+.foot {
+  bottom: 0;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
 }
 
 #search {
